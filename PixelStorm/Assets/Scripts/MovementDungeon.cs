@@ -20,13 +20,13 @@ public class MovementDungeon : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown("up") && controlActive)
+        if (Input.GetKeyDown(KeyCode.W) && controlActive)
         {
             controlActive = false;
             StartCoroutine(smooth_move(movSpeed));
         }
 
-        if (Input.GetKeyDown("right") && controlActive)
+        if (Input.GetKeyDown(KeyCode.D) && controlActive)
         {
             oldAngle = angle;
             angle = oldAngle + 90;
@@ -35,7 +35,7 @@ public class MovementDungeon : MonoBehaviour
             StartCoroutine(smooth_rotate(angle, rotSpeed));
         }
 
-        if (Input.GetKeyDown("left") && controlActive)
+        if (Input.GetKeyDown(KeyCode.A) && controlActive)
         {
             oldAngle = angle;
             angle = oldAngle - 90;
