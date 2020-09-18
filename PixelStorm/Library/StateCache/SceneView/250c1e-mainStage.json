@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":89.98799133300781,"y":53.32312774658203,"z":-55.171875},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":114.53199768066406,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":0.0,"y":2.5,"z":-10.0},"rotation":{"x":-0.5777334570884705,"y":0.13171523809432984,"z":-0.09513416141271591,"w":-0.7998980283737183},"size":70.34645080566406,"orthographic":false}
+>>>>>>> Hugo
