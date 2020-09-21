@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Game/OverworldMap.unity
     guid: e1cfc2e555e46d04a8977a37d4d3b069
   - enabled: 1
-    path: Assets/Scenes/Game/SampleScene.unity
+    path: Assets/Scenes/Game/Dungeon1Scene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
